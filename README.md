@@ -13,9 +13,7 @@ Features:
 Technologies:
 
 #HTML
-
 #CSS
-
 #JavaScript
 
 How to Use:
